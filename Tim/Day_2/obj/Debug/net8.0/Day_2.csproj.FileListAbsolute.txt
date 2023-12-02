@@ -1,0 +1,15 @@
+C:\Users\Tim\Advent_of_Code\Advent-Of-Code\Tim\Day_2\bin\Debug\net8.0\Day_2.exe
+C:\Users\Tim\Advent_of_Code\Advent-Of-Code\Tim\Day_2\bin\Debug\net8.0\Day_2.deps.json
+C:\Users\Tim\Advent_of_Code\Advent-Of-Code\Tim\Day_2\bin\Debug\net8.0\Day_2.runtimeconfig.json
+C:\Users\Tim\Advent_of_Code\Advent-Of-Code\Tim\Day_2\bin\Debug\net8.0\Day_2.dll
+C:\Users\Tim\Advent_of_Code\Advent-Of-Code\Tim\Day_2\bin\Debug\net8.0\Day_2.pdb
+C:\Users\Tim\Advent_of_Code\Advent-Of-Code\Tim\Day_2\obj\Debug\net8.0\Day_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tim\Advent_of_Code\Advent-Of-Code\Tim\Day_2\obj\Debug\net8.0\Day_2.AssemblyInfoInputs.cache
+C:\Users\Tim\Advent_of_Code\Advent-Of-Code\Tim\Day_2\obj\Debug\net8.0\Day_2.AssemblyInfo.cs
+C:\Users\Tim\Advent_of_Code\Advent-Of-Code\Tim\Day_2\obj\Debug\net8.0\Day_2.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Advent_of_Code\Advent-Of-Code\Tim\Day_2\obj\Debug\net8.0\Day_2.sourcelink.json
+C:\Users\Tim\Advent_of_Code\Advent-Of-Code\Tim\Day_2\obj\Debug\net8.0\Day_2.dll
+C:\Users\Tim\Advent_of_Code\Advent-Of-Code\Tim\Day_2\obj\Debug\net8.0\refint\Day_2.dll
+C:\Users\Tim\Advent_of_Code\Advent-Of-Code\Tim\Day_2\obj\Debug\net8.0\Day_2.pdb
+C:\Users\Tim\Advent_of_Code\Advent-Of-Code\Tim\Day_2\obj\Debug\net8.0\Day_2.genruntimeconfig.cache
+C:\Users\Tim\Advent_of_Code\Advent-Of-Code\Tim\Day_2\obj\Debug\net8.0\ref\Day_2.dll
