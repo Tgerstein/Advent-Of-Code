@@ -32,7 +32,6 @@ namespace Day_1
                 string line;
                 while ((line = reader.ReadLine()) != null)
                 {
-                    #region Part 1
                     char firstnumber = ' ';
                     char lastnumber = ' '; 
                     string allUsedChar ="";                   
@@ -67,12 +66,10 @@ namespace Day_1
                     }
                     result += Convert.ToInt32(firstnumber+""+lastnumber);
                     Console.WriteLine(firstnumber + " " + lastnumber);
-                    #endregion
                 }
                 Console.WriteLine(result);
             }
         }
-
         public static bool foundNumberText (string text, Dictionary<string,string> numbers)
         {
             foreach (var item in numbers)

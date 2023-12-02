@@ -6,7 +6,7 @@ using System.Collections.Generic;
 
 namespace Day_1
 {
-    class Test
+    class Program
     {
         static void Main(string[] args)
         {
